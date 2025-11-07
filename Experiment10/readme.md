@@ -31,4 +31,10 @@ src/
 ```
 
  
-<!-- **Website:** [https://shadoink.com](https://shadoink. -->
+**Website:** https://daa-practicals.vercel.app/
+
+
+## Preview
+
+<img src="./screenshot-images-0.jpg" width="400" />
+<img src="./screenshot-images-1.jpg" width="400" />
